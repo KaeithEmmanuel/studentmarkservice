@@ -11,5 +11,5 @@ public class Student {
     private String name;
     private Integer maths;
     private Integer physics;
-    private Integer chemistry;
+    private Integer chemist;
 }
